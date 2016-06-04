@@ -6,9 +6,9 @@ Now you can drag the Responsive iFrame Snippet wherever you want.
 
 Tested with:
 
-1.YouTube
-2.Vimeo
-3.Google Maps
-4.issuu
+-YouTube
+-Vimeo
+-Google Maps
+-issuu
 
 For more Orchard Tricks: https://orchardtricks.dotnest.com 
