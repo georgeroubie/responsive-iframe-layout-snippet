@@ -1,6 +1,6 @@
 # Responsive iFrame - Layout Snippet
 
-First of all, you have to install [Bootstrap](http://getbootstrap.com) to your website.
+In order for the Snippet to work [Bootstrap](http://getbootstrap.com) should be installed to your website.
 You add the ResponsiveIframeSnippet to the Views folder of your theme and you are ready.
 Now you can drag the Responsive iFrame Snippet wherever you want. 
 
